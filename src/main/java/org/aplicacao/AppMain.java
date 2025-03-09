@@ -69,7 +69,7 @@ public class AppMain {
         System.out.println("4. Sair");
         
         int option = scanner.nextInt();
-        scanner.nextLine(); // Consome quebra de linha
+        scanner.nextLine();
 
         switch (option) {
             case 1:
